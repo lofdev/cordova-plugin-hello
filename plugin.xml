@@ -27,7 +27,7 @@
   </platform>
 
   <platform name="ios">
-    
+
     <config-file target="config.xml" parent="/widget">
       <feature name="Hello">
         <param name="ios-package" value="HWPHello" />
